@@ -1,0 +1,1 @@
+<!--//main preload func. brings the func yopreload("secOff","assets/spacer.gif")preload("sec1on","assets/main/sec1.gif")preload("sec2on","assets/main/sec2.gif")preload("sec3on","assets/main/sec3.gif")preload("sec4on","assets/main/sec4.gif")preload("sec5on","assets/main/sec5.gif")preload("sec6on","assets/main/sec6.gif")//-->

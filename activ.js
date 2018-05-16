@@ -1,0 +1,1 @@
+<!--//preload func. brings the func yopreload("b2m0","assets/activ/b2m0.jpg")preload("b2m1","assets/activ/b2m1.jpg")preload("btnOn","assets/activ/highlight.gif")preload("btnOff","assets/spacer.gif")//-->

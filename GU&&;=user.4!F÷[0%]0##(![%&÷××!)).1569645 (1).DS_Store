@@ -1,0 +1,16 @@
+Device Info 
+Device Path: /sys/bus/usb/devices/2-1.3/
+Device Class: Use class information in the Interface Descriptors (0x0)
+Vendor ID:  0471
+Vendor Name (reported):  Philips
+Vendor Name (from DB):  
+Product ID:  20b7
+Product Name (reported):  GoGear ViBE
+Product Name (from DB):  
+
+Additional Info 
+USB Version: 2.00
+Speed: 480
+Protocol: 00
+Maximum Power: 500mA
+Serial Number: 31000000049712260002DA95D15A1226
